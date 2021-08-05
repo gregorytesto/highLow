@@ -1,0 +1,16 @@
+{
+  "name": "highlow",
+  "version": "1.0.0",
+  "description": "Simple High Low CLI Game",
+  "main": "src/highLow.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./src/highLow.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
